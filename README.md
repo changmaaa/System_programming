@@ -1,4 +1,6 @@
 # Sudoku Puzzle Generator
+Youtube Link : https://youtu.be/vEd6tEZr3c0
+
 
 ## Description
 이 프로그램은 시스템 프로그래밍에서 배운 기법들을 사용하여 스도쿠 퍼즐을 생성하고 표시합니다. 파일 입/출력, 프로세스 생성, 파이프를 이용한 프로세스 간 통신(IPC), 그리고 `exec` 함수군의 사용을 시연합니다.
